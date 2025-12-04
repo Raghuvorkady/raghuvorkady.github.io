@@ -24,12 +24,13 @@ Bengaluru, Karnataka \| Apr 2024 – Present
 * Developed full-stack features for various apps in SAP Sustainability Control Tower Suite using Java, Spring Boot, CAP, CDS, OData, SAPUI5, TypeScript  
 * Designed and implemented SAP AI Core prompt registry for dynamic prompt management, improving feature deployment flexibility  
 * Performed performance analysis and optimization for an OData Service using Apache JMeter and Dynatrace  
-* Worked on data migration and transformation architecture including CO2 to CO2e conversion and multi-service data handling  
+* Worked on data migration and transformation architecture including CO2 to CO2e conversion and multi-service data handling
+* Developed unit tests using JUnit and Mockito for Spring Boot services, achieving 100% code coverage
 * Led quality engineering initiatives including test automation framework design (WDIO/OPA5) and refactored team test suite (100+ files) for maintainability  
 * Contributed to Daily Delivery pipeline improvements through test analysis and preventive engineering measures  
 * Mentored team members on automation testing frameworks and best practices
 
-**Technologies**: Java, Spring Boot, SAP CAP/CDS, OData, REST, SAPUI5, TypeScript, WDIO, OPA5, Apache JMeter, Dynatrace, SAP AI Core, SQL, HanaDB, Microservices, Git
+**Technologies**: Java, Spring Boot, SAP CAP/CDS, OData, REST, SAPUI5, TypeScript, WDIO, OPA5, JUnit, Mockito, Apache JMeter, Dynatrace, SAP AI Core, SQL, HanaDB, Microservices, Git
 
 ### Support Associate \- SAP Labs India
 
